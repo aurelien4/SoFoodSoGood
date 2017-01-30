@@ -1,0 +1,274 @@
+{
+  "products":[
+    {
+      "burgers": [
+        {
+          "id": 1,
+          "name": "Highway To Ale",
+          "ingredients": [
+            "Boeuf frais VBF",
+            "lard fumé",
+            "cheddar",
+            "oignons rouges",
+            "cornichons pickles",
+            "salade",
+            "tomates",
+            "sauce barbecue à la Ninkasi Noire"
+          ],
+          "price": 9.90
+        },
+        {
+          "id": 2,
+          "name": "Poule and the gang",
+          "ingredients": [
+            "poulet frais mariné",
+            "cheddar",
+            "confit d’oignons à la bière Ninkasi Ambrée",
+            "ciboulette",
+            "salade",
+            "tomates",
+            "sauce crème au poivre noir",
+            "frites"
+          ],
+          "price": 9.90
+        },
+        {
+          "id": 3,
+          "name": "Soundgarden",
+          "ingredients": [
+            "Tofu fumé au bois de hêtre bio",
+            "aubergines grillées",
+            "onion ring",
+            "salade",
+            "tomates",
+            "oignons rouges cream cheese",
+            "sauce barbecue",
+            "à la bière Ninkasi Noire + frites fraîches maison + 1 sauce"
+          ],
+          "price": 9.90
+        },
+        {
+          "id": 4,
+          "name": "Cheese on Fire",
+          "ingredients": [
+            "Boeuf frais VBF",
+            "fourme d'Ambert AOP",
+            "cheddar",
+            "tomme de Savoie AOP",
+            "tomates",
+            "salade",
+            "oignons rouges",
+            "ciboulette",
+            "sauce tartare + frites fraîches maison + 1 sauce & coleslaw"
+          ],
+          "price": 12.90
+        },
+        {
+          "id": 5,
+          "name": "Red Hot Chicken Pepper",
+          "ingredients": [
+            "Poulet frais mariné",
+            "fromage de chèvre",
+            "chorizo",
+            "poivrons grillés marinés",
+            "basilic",
+            "roquette",
+            "tomates",
+            "oignons rouges",
+            "confit de figues + frites fraîches maison + 1 sauce & coleslaw"
+          ],
+          "price": 12.90
+        }
+      ]
+    },
+    {
+      "salades":[
+        {
+          "id":1,
+          "name":"Caesar Sister",
+          "ingredients":[
+            "Salades mélangées",
+            "tomates",
+            "poulet frais mariné",
+            "copeaux de parmesan",
+            "câpres", "croûtons",
+            "sauce caesar"
+          ],
+          "price":9.90
+        },
+        {
+          "id":2,
+          "name":"Lyonnaise Richie",
+          "ingredients":["Salades mélangées",
+            "tomates",
+            "lardons",
+            "croûtons",
+            "oeuf poché",
+            "sauce moutarde"
+            ],
+          "price":9.90
+        },
+        {
+          "id":3,
+          "name":"Rock The Casbah",
+          "ingredients":[
+            "Salades mélangées",
+            "tomates",
+            "falafels",
+            "houmous citron - coriandre",
+            "aubergines grillées",
+            "oignons rouges",
+            "poivrons grillés marinés",
+            "coriandre",
+            "menthe",
+            "sauce balsamique"
+          ],
+          "price":11.50
+        },
+        {
+          "id":4,
+          "name":"Björk",
+          "ingredients":[
+            "Salades mélangées",
+            "roquette",
+            "saumon fumé",
+            "tofu fumé au bois de hêtre bio",
+            "tomates",
+            "toast de cream cheese",
+            "concombres",
+            "aneth",
+            "pamplemousse",
+            "sauce moutarde"
+          ],
+          "price":10.90
+        },
+        {
+          "id":5,
+          "name":"Rock The Casbah",
+          "ingredients":[
+            "Salades mélangées",
+            "tomates", "falafels",
+            "houmous citron - coriandre",
+            "aubergines grillées",
+            "oignons rouges",
+            "poivrons grillés marinés",
+            "coriandre",
+            "menthe",
+            "sauce balsamique"
+          ],
+          "price": 11.90
+        }
+      ]
+    },
+    {
+      "alcools": [
+        {
+          "id": 1,
+          "name": "Rothaus",
+          "degree": 5.4,
+          "price": 6.6
+        },
+        {
+          "id": 2,
+          "name": "Augustiner Edelstoff",
+          "degree": 5.6,
+          "price": 6.6
+        },
+        {
+          "id": 3,
+          "name": "Neumarkter lammsbräu",
+          "degree": 4.7,
+          "price": 5
+        },
+        {
+          "id": 4,
+          "name": "Braugold bock",
+          "degree": 6.5,
+          "price": 6.6
+        },
+        {
+          "id": 5,
+          "name": "Diebels",
+          "degree": 4.9,
+          "price": 6.6
+        },
+        {
+          "id": 6,
+          "name": "Andechs",
+          "degree": 7.1,
+          "price": 6.6
+        },
+        {
+          "id": 7,
+          "name": "Deversante",
+          "degree": 7.2,
+          "price": 5.5
+        },
+        {
+          "id": 8,
+          "name": "Rousse du mont blanc",
+          "degree": 7.2,
+          "price": 5.5
+        },
+        {
+          "id": 9,
+          "name": "Jambe de bois",
+          "degree": 8,
+          "price": 5.9
+        },
+        {
+          "id": 10,
+          "name": "Carolus triple",
+          "degree": 9,
+          "price": 5.5
+        },
+        {
+          "id": 11,
+          "name": "Malheur",
+          "degree": 12,
+          "price": 6.2
+        },
+        {
+          "id": 12,
+          "name": "Brewdog punk",
+          "degree": 5.6,
+          "price": 5.9
+        }
+      ]
+    },
+    {
+      "soft":[
+        {
+          "id":1,
+          "name":"Cristaline",
+          "liter":"33cl",
+          "price":3
+        },
+        {
+          "id":2,
+          "name":"Fanta",
+          "liter":"33cl",
+          "price":3
+        },
+        {
+          "id":3,
+          "name":"Coca",
+          "liter":"33cl",
+          "price":3
+        },
+        {
+          "id":4,
+          "name":"7up",
+          "liter":"33cl",
+          "price":3
+        },
+        {
+          "id":5,
+          "name":"Ice tea",
+          "liter":"33cl",
+          "price":3
+        }
+      ]
+    }
+  ]
+}

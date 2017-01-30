@@ -1,0 +1,17 @@
+{
+  "purchase": {
+    "id": 1,
+    "amount": "10",
+    "priceWt": 150,
+    "user": {
+      "id": 1,
+      "firstName": "Jen miche miche",
+      "phoneNumber": "102229363"
+    },
+    "item": [
+      5,
+      "Highway To Ale",
+      "9.9"
+    ]
+  }
+}

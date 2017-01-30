@@ -1,0 +1,26 @@
+AppBundle\Entity\Category:
+    type: entity
+    oneToMany:
+      item:
+        targetEntity: AppBundle\Entity\Item
+        mappedBy: category
+    manyToOne:
+      type:
+        targetEntity: AppBundle\Entity\Restaurant
+        joinColumn:
+          name: type_id
+          referencedColumnName: id
+    table: null
+    repositoryClass: AppBundle\Repository\CategoryRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        categoryName:
+            type: string
+            length: 255
+            column: category_name
+    lifecycleCallbacks: {  }

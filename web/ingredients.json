@@ -1,0 +1,73 @@
+{
+  "ingredients":[
+    {
+      "name": "Salades mélangées"
+    },
+    {
+      "name":"tomates"
+    },
+    {
+      "name":"falafels"
+    },
+    {
+      "name":"houmous citron - coriandre"
+    },
+    {
+      "name":"aubergines grillées"
+    },
+    {
+      "name":"oignons rouges"
+    },
+    {
+      "name":"poivrons grillés marinés"
+    },
+    {
+      "name":"coriandre"
+    },
+    {
+      "name":"menthe"
+    },
+    {
+      "name":"sauce balsamique"
+    },
+    {
+      "name":"pamplemousse"
+    },
+    {
+      "name":"aneth"
+    },
+    {
+      "name":"concombres"
+    },
+    {
+      "name":"tofu fumé au bois de hêtre bio"
+    },
+    {
+      "name":"saumon fumé"
+    },
+    {
+      "name":"roquette"
+    },
+    {
+      "name":"croûtons"
+    },{
+      "name":"lardons"
+    },{
+      "name":"oeuf poché"
+    },{
+      "name":"sauce moutarde"
+    },{
+      "name":"confit d'échalote"
+    },{
+      "name":"Bœuf VBF"
+    },{
+      "name":"jambon de Savoie"
+    },{
+      "name":"ciboulette"
+    },{
+      "name":"jambon cru"
+    },{
+      "name":"cheddar"
+    }
+  ]
+}

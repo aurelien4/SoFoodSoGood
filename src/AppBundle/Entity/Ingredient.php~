@@ -1,0 +1,54 @@
+<?php
+
+namespace AppBundle\Entity;
+
+/**
+ * Ingredient
+ */
+class Ingredient
+{
+    /**
+     * @var int
+     */
+    private $id;
+
+    /**
+     * @var string
+     */
+    private $ingredientName;
+
+
+    /**
+     * Get id
+     *
+     * @return int
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set ingredientName
+     *
+     * @param string $ingredientName
+     *
+     * @return Ingredient
+     */
+    public function setIngredientName($ingredientName)
+    {
+        $this->ingredientName = $ingredientName;
+
+        return $this;
+    }
+
+    /**
+     * Get ingredientName
+     *
+     * @return string
+     */
+    public function getIngredientName()
+    {
+        return $this->ingredientName;
+    }
+}

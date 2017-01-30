@@ -1,0 +1,72 @@
+{
+  "alcools": [
+    {
+      "id": 1,
+      "name": "Rothaus",
+      "degree": "5",
+      "price": "7"
+    },
+    {
+      "id": 5,
+      "name": "Diebels",
+      "degree": "5",
+      "price": "7"
+    },
+    {
+      "id": 6,
+      "name": "Andechs",
+      "degree": "7",
+      "price": "7"
+    },
+    {
+      "id": 8,
+      "name": "Rousse du mont blanc",
+      "degree": "7",
+      "price": "6"
+    },
+    {
+      "id": 10,
+      "name": "Carolus triple",
+      "degree": "9",
+      "price": "6"
+    },
+    {
+      "id": 11,
+      "name": "Malheur",
+      "degree": "12",
+      "price": "6"
+    },
+    {
+      "id": 18,
+      "name": "Deversante",
+      "degree": "7",
+      "price": "6"
+    }
+  ],
+  "soft": [
+    {
+      "id": 13,
+      "name": "Cristaline",
+      "liter": "33cl",
+      "price": "3"
+    },
+    {
+      "id": 14,
+      "name": "Fanta",
+      "liter": "33cl",
+      "price": "3"
+    },
+    {
+      "id": 15,
+      "name": "Coca",
+      "liter": "33cl",
+      "price": "3"
+    },
+    {
+      "id": 17,
+      "name": "Ice tea",
+      "liter": "33cl",
+      "price": "3"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
 ### Concept
     Il s'agit d'une appli web mobile first , qui permetra de passer commande auprès de restaurants
     mobiles "food-trucks" positionnés proche des évènements (festival, concert, compétition surf, snow etc).
-    L'appli permetra de géolocaliser le food truck le plus proche, de visualiser les produits disponible
+    L'appli permetra de géolocaliser le food truck le plus proche, de visualiser les products disponible
     et de passer commande (emporter Only). Ce sont des restaurants qui sont installés ponctuellement sur les
     côtes Atlantique en saison estivale et hivernale en montagne.
 ### Techno: 
@@ -24,13 +24,13 @@
 ### Contenu
     Minimum:
         1 page Resto/Bar
-            - Affichage des produits disponibles
-            - Descriptif des produits(Ingredient, poid pour la viande, prix)
-            - Possibilité de selectionner un produit pour l'envoyer vers le panier(click).
+            - Affichage des products disponibles
+            - Descriptif des products(Ingredient, poid pour la viande, prix)
+            - Possibilité de selectionner un product pour l'envoyer vers le panier(click).
           
         1 page Commande
             - Panier sous forme de popup
-            - Visuel des produits selectionnés (nom, prix , quantité)
+            - Visuel des products selectionnés (nom, prix , quantité)
             - boutton pour valider le panier et commander
             - commander permets de générer le contenu du payement sécurisé
         

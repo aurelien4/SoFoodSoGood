@@ -1,0 +1,19 @@
+AppBundle\Entity\User:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\UserRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        firstName:
+            type: string
+            length: '100'
+        phoneNumber:
+            type: decimal
+            precision: 10
+            scale: 0
+    lifecycleCallbacks: {  }

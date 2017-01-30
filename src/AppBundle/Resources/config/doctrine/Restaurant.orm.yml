@@ -1,0 +1,15 @@
+AppBundle\Entity\Restaurant:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\RestaurantRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        type:
+            type: string
+            length: 255
+    lifecycleCallbacks: {  }

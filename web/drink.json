@@ -1,0 +1,90 @@
+[
+   {
+      "id": "1",
+      "name": "Rothaus",
+      "degree": "5",
+      "liter": null,
+      "price": "7",
+      "type_id": "2"
+   },
+   {
+      "id": "5",
+      "name": "Diebels",
+      "degree": "5",
+      "liter": null,
+      "price": "7",
+      "type_id": "2"
+   },
+   {
+      "id": "6",
+      "name": "Andechs",
+      "degree": "7",
+      "liter": null,
+      "price": "7",
+      "type_id": "2"
+   },
+   {
+      "id": "8",
+      "name": "Rousse du mont blanc",
+      "degree": "7",
+      "liter": null,
+      "price": "6",
+      "type_id": "2"
+   },
+   {
+      "id": "10",
+      "name": "Carolus triple",
+      "degree": "9",
+      "liter": null,
+      "price": "6",
+      "type_id": "2"
+   },
+   {
+      "id": "11",
+      "name": "Malheur",
+      "degree": "12",
+      "liter": null,
+      "price": "6",
+      "type_id": "2"
+   },
+   {
+      "id": "13",
+      "name": "Cristaline",
+      "degree": null,
+      "liter": "33cl",
+      "price": "3",
+      "type_id": "2"
+   },
+   {
+      "id": "14",
+      "name": "Fanta",
+      "degree": null,
+      "liter": "33cl",
+      "price": "3",
+      "type_id": "2"
+   },
+   {
+      "id": "15",
+      "name": "Coca",
+      "degree": null,
+      "liter": "33cl",
+      "price": "3",
+      "type_id": "2"
+   },
+   {
+      "id": "17",
+      "name": "Ice tea",
+      "degree": null,
+      "liter": "33cl",
+      "price": "3",
+      "type_id": "2"
+   },
+   {
+      "id": "18",
+      "name": "Deversante",
+      "degree": "7",
+      "liter": null,
+      "price": "6",
+      "type_id": "2"
+   }
+]
